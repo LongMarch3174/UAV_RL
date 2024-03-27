@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2d4593cd-e283-47ca-b2ef-e40e65a11144" name="zyx">
+        <fileTransfer accessType="SFTP" sshConfigId="a843bb4d-2f33-4c6b-9183-b34ab9094507" sshConfig="root@lyg.blockelite.cn:21716 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

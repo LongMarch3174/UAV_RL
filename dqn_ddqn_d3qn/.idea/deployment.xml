@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="root@lyg.blockelite.cn:21716 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/vipuser/Desktop/dqn_ddqn_d3qn" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zyx">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/vipuser/Desktop/dqn_ddqn_d3qn" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
